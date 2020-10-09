@@ -1,0 +1,17 @@
+{
+  "name": "InfoQ",
+  "description": "Acess InfoQ",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.infoq.com"
+    ],
+    "launch": {
+      "web_url": "http://www.infoq.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

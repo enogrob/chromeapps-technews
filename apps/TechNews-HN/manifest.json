@@ -1,0 +1,17 @@
+{
+  "name": "HackerNews",
+  "description": "Access HackerNews",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://news.ycombinator.com/"
+    ],
+    "launch": {
+      "web_url": "https://news.ycombinator.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
