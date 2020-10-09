@@ -1,0 +1,17 @@
+{
+  "name": "DZone",
+  "description": "Acess DZone",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://dzone.com/"
+    ],
+    "launch": {
+      "web_url": "https://dzone.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
