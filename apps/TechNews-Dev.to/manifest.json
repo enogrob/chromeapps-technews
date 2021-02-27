@@ -1,0 +1,17 @@
+{
+  "name": "Dev.to",
+  "description": "Acess Dev.to",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://dev.to/"
+    ],
+    "launch": {
+      "web_url": "https://dev.to/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
